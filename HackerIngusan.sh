@@ -51,10 +51,10 @@ clear
 echo -b $green"[#]> TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA " |lolcat
 echo -b $green"[#]> Thanks For Using My Tools" |lolcat
 sleep 1
-echo -b $green"[#]> TUAN B4DUT On Your System" |lolcat
+echo -b $green"[#]> HACKER INGUSAN On Your System" |lolcat
 
 echo -b $green"[#]> See you Again SCRIPTKIDDIES😎 :)..." |lolcat
-figlet TUAN B4DUT | lolcat
+figlet HACKER INGUSAN | lolcat
 sleep 1
 exit
 }
@@ -696,7 +696,7 @@ echo -e "============================" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "============================" | lolcat
 echo -e "╭─[PILIH NOMORNYA]"
-read -p "   ╰─root@./TUANB4DUT=" pil;
+read -p "   ╰─root@./HACKERINGUSAN=" pil;
 
 # Nmap
 
